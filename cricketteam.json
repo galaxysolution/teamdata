@@ -1,8 +1,8 @@
 {
 "data":[
   {
-    "team1":"maulik"
-    "team2":"India"
+    "team1":"maulik",
+    "team2":"India",
     "starttime":"",
     "scoreteam1":"150/5",
     "scoreteam2":"125/3",
@@ -13,8 +13,8 @@
     "team1img":"https://raw.githubusercontent.com/galaxysolution/teamImage/main/e8aab0ba-280f-11eb-8b4f-ade270e35172_1605575909707_1612885818891.jpg"
   },  
     {
-    "team1":"maulik1"
-    "team2":"aus"
+    "team1":"maulik1",
+    "team2":"aus",
     "starttime":"",
     "scoreteam1":"140/4",
     "scoreteam2":"125/2",
