@@ -1,7 +1,7 @@
 {
 "data":[
   {
-    "team1":"INDIA",
+    "team1":"team1",
     "team2":"India",
     "starttime":"12:45 AM",
     "scoreteam1":"150/5",
@@ -17,7 +17,7 @@
     "team1img":"https://raw.githubusercontent.com/solutionging/teamImage/main/ind.jpg"
   },  
     {
-    "team1":"NWZ",
+    "team1":"team2",
     "team2":"aus",
     "starttime":"12:50 AM",
     "scoreteam1":"140/4",
