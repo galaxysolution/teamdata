@@ -1,1 +1,19 @@
-
+{
+"data":[
+  {
+    "newstitle":"INDIA",
+    "discription":"aus",
+    "newsimg":"https://raw.githubusercontent.com/solutionging/teamImage/main/ind.jpg"
+  },  
+    {
+    "newstitle":"INDIA",
+    "discription":"aus",
+    "newsimg":"https://raw.githubusercontent.com/solutionging/teamImage/main/ind.jpg"
+  },  
+    {
+    "newstitle":"INDIA",
+    "discription":"aus",
+    "newsimg":"https://raw.githubusercontent.com/solutionging/teamImage/main/ind.jpg"
+  }    
+]
+}
