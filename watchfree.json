@@ -1,0 +1,19 @@
+{
+"data":[
+  {
+    "newstitle":"video",
+    "discription":"",
+    "newsimg":"https://raw.githubusercontent.com/solutionging/video/main/videoplayback.mp4"
+  },  
+    {
+    "newstitle":"video2",
+    "discription":"",
+    "newsimg":"https://raw.githubusercontent.com/solutionging/teamImage/main/ind.jpg"
+  },  
+    {
+    "newstitle":"video3",
+    "discription":"",
+    "newsimg":"https://raw.githubusercontent.com/solutionging/video/main/videoplayback.mp4"
+  }    
+]
+}
