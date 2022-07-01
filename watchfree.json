@@ -1,17 +1,17 @@
 {
 "data":[
   {
-    "newstitle":"video",
+    "newstitle":"watch_video",
     "discription":"",
     "newsimg":"https://raw.githubusercontent.com/solutionging/video/main/videoplayback.mp4"
   },  
     {
-    "newstitle":"video2",
+    "newstitle":"watch_video2",
     "discription":"",
     "newsimg":"https://raw.githubusercontent.com/solutionging/teamImage/main/ind.jpg"
   },  
     {
-    "newstitle":"video3",
+    "newstitle":"watch_video3",
     "discription":"",
     "newsimg":"https://raw.githubusercontent.com/solutionging/video/main/videoplayback.mp4"
   }    
