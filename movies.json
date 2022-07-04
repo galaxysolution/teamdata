@@ -3,17 +3,17 @@
   {
     "newstitle":"movie_video",
     "discription":"",
-    "newsimg":"https://raw.githubusercontent.com/solutionging/video/main/videoplayback.mp4"
+    "newsimg":"https://raw.githubusercontent.com/solutionging/video/main/movie1.mp4"
   },  
     {
     "newstitle":"movie_video2",
     "discription":"",
-    "newsimg":"https://raw.githubusercontent.com/solutionging/video/main/videoplayback.mp4"
+    "newsimg":"https://raw.githubusercontent.com/solutionging/video/main/movie2.mp4"
   },  
     {
     "newstitle":"movie_video3",
     "discription":"",
-    "newsimg":"https://raw.githubusercontent.com/solutionging/teamImage/main/ind.jpg"
+    "newsimg":"https://raw.githubusercontent.com/solutionging/video/main/movie3.mp4"
   }    
 ]
 }
